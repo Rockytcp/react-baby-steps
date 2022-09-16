@@ -1,0 +1,19 @@
+.first-bar {
+  display: flex;
+  background-color: aliceblue;
+  color: rgb(36, 31, 31);
+  height: 80px;
+}
+
+.text-header {
+  align-content: center;
+}
+
+.first-bar-dark-mode {
+  background-color: cornflowerblue;
+  color: blanchedalmond;
+}
+
+.text-header-dark-mode {
+  color: darkslategrey;
+}
